@@ -1,0 +1,6 @@
+# Copia este archivo como key.properties (NO subas key.properties a git).
+# Ruta del .jks o .keystore (puede ser relativa a la carpeta android/)
+storePassword=tu_store_password
+keyPassword=tu_key_password
+keyAlias=tu_alias
+storeFile=C:/ruta/completa/jetdelivery-restaurante-upload.jks
