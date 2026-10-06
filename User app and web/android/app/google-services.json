@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "716561771391",
+    "project_id": "jet-delivery-fbffa",
+    "storage_bucket": "jet-delivery-fbffa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716561771391:android:e07de9288c363eedf8084a",
+        "android_client_info": {
+          "package_name": "com.jetdeliveryapp.delivery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjRI_a7NBExlJn1PSf7d72HKAQ3jI08M0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716561771391:android:2475847d964d3157f8084a",
+        "android_client_info": {
+          "package_name": "com.jetdeliveryapp.restaurante"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjRI_a7NBExlJn1PSf7d72HKAQ3jI08M0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716561771391:android:ce94c71bf421cc53f8084a",
+        "android_client_info": {
+          "package_name": "com.jetdeliveryapp.user"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjRI_a7NBExlJn1PSf7d72HKAQ3jI08M0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
