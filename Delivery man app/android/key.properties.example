@@ -1,0 +1,5 @@
+# Copia como key.properties (no subir a git). Valores de ejemplo — usa los tuyos.
+storePassword=
+keyPassword=
+keyAlias=upload
+storeFile=upload-delivery.jks
